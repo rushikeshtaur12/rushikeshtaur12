@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Taur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshtaur12&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshtaur12" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshtaur12" alt="rushikeshtaur12" /></a> </p>
 
 - 🌱 I’m currently learning **Something cool !!**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshtaur12&show_icons=true&locale=en&layout=compact" alt="rushikeshtaur12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshtaur12&show_icons=true&locale=en" alt="rushikeshtaur12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshtaur12&" alt="rushikeshtaur12" /></p>
